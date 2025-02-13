@@ -42,7 +42,7 @@ KPI Metrics: Real-time tracking of cart abandonment rate and conversion rate.
 
 Geographic Analysis: Bubble map displaying purchase likelihood by region.
 
-**🚀 Getting Started****
+**🚀 Getting Started**
 
 1️⃣ **Clone the Repository**
 
